@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\o\Desktop\재택근무\20230522_CRA과정\TDD_PrimeFactors_3\x64\Debug\Sample-Test1.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="PrimeFactors.Of1" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
